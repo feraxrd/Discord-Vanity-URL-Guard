@@ -25,7 +25,7 @@ pip install requests colorama termcolor
 python main.py
 Enter the required details (Discord token, server ID, and URL) when prompted.
 Security Note
-This tool requires your Discord bot token for operation. Ensure that you never share your token publicly and understand the security implications of using this tool.
+This tool requires your Discord token for operation. Ensure that you never share your token publicly and understand the security implications of using this tool.
 
 License
 MIT License
