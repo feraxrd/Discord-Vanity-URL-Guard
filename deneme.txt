@@ -1,0 +1,4 @@
+@echo off
+echo IP adresiniz:
+ipconfig | findstr /R /C:"IPv4 Address"
+pause
